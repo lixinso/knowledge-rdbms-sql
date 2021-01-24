@@ -1,4 +1,4 @@
-# Relational Database (SQL) Basics
+# Relational Database (SQL) Basics - Cheatsheet
 
 # Basics
 
