@@ -1,6 +1,12 @@
 # Relational Database (SQL) Basics
 
+# Basics
+
+- Structured Query Language (SQL)
+
 # SQL Operations
+
+- **Data Definition Language (DDL)**
 
 - Create DB
 - Drop DB
@@ -13,7 +19,12 @@
 - Delete
 - Update
 
+- **Data Query Language (DQL)**
+
+- SELECT
+
 - JOIN
+
 - 
 
 # Transaction
