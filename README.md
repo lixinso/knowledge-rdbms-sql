@@ -10,14 +10,19 @@
 
 - Create DB
 - Drop DB
+- ALTER DATABASE
 
 - Create Table
 - Drop table
-- Modify Table
+- ALTER Table
 
-- Insert
-- Delete
-- Update
+- INSERT INTO
+- DELETE
+- UPDATE
+
+- CREATE INDEX
+- DROP INDEX
+- 
 
 - **Data Query Language (DQL)**
 
