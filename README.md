@@ -27,6 +27,10 @@
 
 - 
 
+- **Data Control Language (DCL)**
+
+- **Data Manipulation Language(DML)**
+
 # Transaction
 
 # Consistance
