@@ -1,4 +1,4 @@
-# Relational Database (SQL)
+# Relational Database (SQL) Basics
 
 # SQL Operations
 
