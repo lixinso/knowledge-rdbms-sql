@@ -28,6 +28,10 @@
 
 - SELECT
 
+SELECT * FROM Customers;
+
+SELECT DISTINCT Country FROM Customer;
+
 - JOIN
 
 - 
