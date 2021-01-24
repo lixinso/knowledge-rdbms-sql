@@ -2,6 +2,20 @@
 
 # SQL Operations
 
+- Create DB
+- Drop DB
+
+- Create Table
+- Drop table
+- Modify Table
+
+- Insert
+- Delete
+- Update
+
+- JOIN
+- 
+
 # Transaction
 
 # Consistance
