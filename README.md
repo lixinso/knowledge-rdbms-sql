@@ -32,6 +32,8 @@ SELECT * FROM Customers;
 
 SELECT DISTINCT Country FROM Customer;
 
+SELECT TOP 3 * FROM Customers; -- SQL Server Syntax
+
 - JOIN
 
 - 
