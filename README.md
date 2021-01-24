@@ -46,6 +46,12 @@
     - Binary (BINARY)
     - Binary Varying (VARBINARY)
     - Binary Large Object (BLOB)
+    
+# Stored Procedure & Function
+
+## Stored Procedure
+
+## Function
 
 ## History
 
