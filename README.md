@@ -31,6 +31,17 @@
 
 - **Data Manipulation Language(DML)**
 
+## Predefined Data Types
+
+- Character Types
+    - Character (CHAR)
+    - Character Varying (VARCHAR)
+    - Character Large Object (CLOB)
+- Binary Types
+    - Binary (BINARY)
+    - Binary Varying (VARBINARY)
+    - Binary Large Object (BLOB)
+
 ## History
 
 - SQL-92
