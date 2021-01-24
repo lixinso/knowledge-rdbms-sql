@@ -96,6 +96,7 @@ Once a transsaction has been committed, it will remain no.
 
 # References
 
+- https://www.w3schools.com/sql/default.asp
 - https://en.wikipedia.org/wiki/SQL
 - https://en.wikipedia.org/wiki/CAP_theorem
 - https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide?view=sql-server-ver15
