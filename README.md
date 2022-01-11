@@ -59,6 +59,20 @@ SELECT TOP 3 * FROM Customers; -- SQL Server Syntax
 
 ## Function
 
+# System Tables
+
+- List all tables
+
+```
+SELECT
+  *
+FROM
+  SYSOBJECTS
+WHERE
+  xtype = 'U';
+GO
+```
+
 ## History
 
 - SQL-92
