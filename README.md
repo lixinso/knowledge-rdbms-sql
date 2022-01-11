@@ -73,6 +73,17 @@ WHERE
 GO
 ```
 
+- List all Stored Procedures
+
+```
+SELECT 
+  SCHEMA_NAME(schema_id) AS [Schema],
+  name
+FROM sys.objects
+WHERE type = 'P';
+```
+
+
 ## History
 
 - SQL-92
